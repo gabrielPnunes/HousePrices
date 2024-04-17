@@ -1,3 +1,3 @@
 # HousePrices
 
-esse
+esse foi o meu primeiro projeto analisando de forma inplicita e explicita um dataset do kaggle
